@@ -12,7 +12,7 @@
 }
 .popup-inner {
   font-family: "Tachoma", sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   border-radius: 5px;
   position: relative;
   padding: 62px;
@@ -27,9 +27,9 @@
   .popup-inner {
     max-width: 380px;
     width: 100%;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 20px;
-    /* line-height: 2.5rem; */
+    line-height: 1.5rem;
     height: auto;
   }
 }
