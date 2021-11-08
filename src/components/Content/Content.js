@@ -102,7 +102,7 @@ const Content = (props) => {
                     initial={initial}
                     transition={{ delay: 1, duration: 0.6 }}
                     animate={animation}
-                    alt=""
+                    alt="..."
                     src={bottomImg}
                   />
                 ) : (
