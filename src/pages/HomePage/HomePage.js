@@ -40,13 +40,13 @@ const HomePage = () => {
           </span>
         </h3>
         <p>
-          Profesor Rudolf Weigl pomógł ochronić wielu usuniętych z pracy
+          Profesor <b>Rudolf Weigl</b> pomógł ochronić wielu usuniętych z pracy
           profesorów uniwersytetu i ich współpracowników, zatrudniając ich jako
           karmicieli wszy. Takie zatrudnienie uprawniało do specjalnych racji
           żywnościowych i - chociaż częściowo - ubezpieczało przed
           aresztowaniami, wywózką i/lub śmiercią pod okupacją hitlerowską.
-          Niektóre aspekty zatrudnienia w Instytucie Weigla miały wiele
-          wspólnego z filmem Spielberga „Lista Schindlera”. <br />
+          Niektóre aspekty zatrudnienia w <b>Instytucie Weigla</b> miały wiele
+          wspólnego z <b>filmem Spielberga „Lista Schindlera”</b>. <br />
           <br />
           <em>www.lwow.com.pl/m.htm</em>
           <br />
