@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://stefan-banach.netlify.app/sitemap.xml
+Host: https://stefan-banach.netlify.app
