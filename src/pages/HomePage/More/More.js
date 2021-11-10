@@ -19,7 +19,7 @@ const More = () => {
         <Column align="center" mb="10%">
           <MainHeading>Stefan Banach</MainHeading>
           <TextWrapper
-            color="white"
+            color="yellow"
             // size="clamp(1rem,3vw,1.3rem)"
             size="max(.8rem, 1.2vw)"
             margin="0 0 2rem"
