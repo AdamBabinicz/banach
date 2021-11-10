@@ -55,7 +55,8 @@ export const PricingContainer = styled.div`
     width: 100%;
 
     > div {
-      width: 90%;
+      width: 100%;
+      margin: 1rem auto;
     }
   }
 `;
@@ -69,13 +70,14 @@ export const PricingCardInfo = styled.div`
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding: 24px;
+  padding: 14px;
   margin: auto;
 
   > button {
     background: transparent;
     border: 2px solid ${pink};
     margin-top: auto;
+    transition: all 0.3s ease-out;
 
     &:hover {
       border: none;
@@ -84,12 +86,10 @@ export const PricingCardInfo = styled.div`
 
   &:hover {
     transform: scale(1.06);
-    transition: all 0.3s ease-out;
   }
 
   @media screen and (max-width: 768px) {
     width: 100%;
-    background: red;
 
     &:hover {
       transform: none;
