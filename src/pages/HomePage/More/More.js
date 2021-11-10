@@ -23,7 +23,7 @@ const More = () => {
             size="clamp(1rem,3vw,1.1rem)"
             margin="0 0 2rem"
             lineHeight="1.1rem"
-            maxWidth="1200px"
+            maxWidth="1000px"
             align="justify"
           >
             Początkowo studiował matematykę jako samouk. Przez krótki czas
@@ -31,8 +31,6 @@ const More = () => {
             Politechnikę Lwowską. Studia na Politechnice przerwał wybuch I wojny
             światowej. Banach wrócił do Krakowa. Nie przestał interesować się
             matematyką, nie odbywał jednak w tym czasie regularnych studiów;
-            poznawał matematykę z książek i z rozmów z matematykami O. Nikodymem
-            i W. Wilkoszem (późniejszymi profesorami).
             <br />
             <br /> A oto jak opisuje Steinhaus swe pierwsze spotkanie z
             Banachem: "Idąc letnim wieczorem r. 1916 wzdłuż plant krakowskich,
@@ -46,9 +44,7 @@ const More = () => {
             natychmiastowe konsekwencje naukowe: Steinhaus zakomunikował
             Banachowi pewne zagadnienie, nad którym od dłuższego czasu pracował,
             a w parę dni później - ku zdziwieniu Steinhausa - Banach przyszedł z
-            gotowym rozwiązaniem. Tak powstała pierwsza publikacja Banacha,
-            ogłoszona w "Biuletynie Akademii Krakowskiej" wspólnie ze
-            Steinhausem. <br />
+            gotowym rozwiązaniem. <br />
             <br />
             <em>www.lwow.com.pl/m.htm</em>
           </TextWrapper>
