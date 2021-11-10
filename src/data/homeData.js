@@ -43,7 +43,7 @@ export const heroThree = {
   smallSection: true,
   inverse: true,
   topLine: {
-    text: "z ławeczki Banacha",
+    text: "Banacha",
     extraText: "rozmówca",
   },
   headline: "Otton Marcin Nikodym",
