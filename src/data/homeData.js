@@ -3,7 +3,7 @@ export const heroOne = {
   inverse: true,
   bigImage: true,
   topLine: {
-    text: "analizy funkcjonalnej",
+    text: "analizy funkc.",
     extraText: "pionier",
   },
   headline: "Stefan Banach",
