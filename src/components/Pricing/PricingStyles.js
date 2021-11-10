@@ -88,7 +88,7 @@ export const PricingCardInfo = styled.div`
   }
 
   @media screen and (max-width: 768px) {
-    width: 90%;
+    width: 100%;
 
     &:hover {
       transform: none;
