@@ -14,6 +14,15 @@ export const HeroSection = styled(Section)`
   }
 `;
 
+// export const TextWrapper = styled.p`
+//   @media screen and (max-width: 768px) {
+//     p {
+//       font-size: 0.8rem;
+//       color: red !important;
+//     }
+//   }
+// `;
+
 export const ButtonContainer = styled(Row)`
   justify-content: center;
   flex-flow: wrap;
