@@ -53,6 +53,7 @@ export const PricingContainer = styled.div`
     justify-content: center;
     align-items: center;
     width: 100%;
+
     > div {
       width: 90%;
     }
@@ -66,12 +67,11 @@ export const PricingCardInfo = styled.div`
   text-decoration: none;
   border-radius: 4px;
   height: 100%;
-
   display: flex;
   flex-direction: column;
   padding: 24px;
-  color: #fff;
   margin: auto;
+
   > button {
     background: transparent;
     border: 2px solid ${pink};
@@ -89,6 +89,7 @@ export const PricingCardInfo = styled.div`
 
   @media screen and (max-width: 768px) {
     width: 100%;
+    background: red;
 
     &:hover {
       transform: none;
@@ -104,6 +105,7 @@ export const PricingCardPlan = styled.h3`
 
 export const PricingCardCost = styled(TextWrapper)`
   font-size: 1.2rem;
+  color: #fff;
 `;
 
 export const PricingCardText = styled(TextWrapper)`
