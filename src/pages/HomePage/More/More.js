@@ -20,7 +20,8 @@ const More = () => {
           <MainHeading>Stefan Banach</MainHeading>
           <TextWrapper
             color="white"
-            size="clamp(1rem,1vw,1.3rem)"
+            // size="clamp(1rem,3vw,1.3rem)"
+            size="max(.8rem, 1.2vw)"
             margin="0 0 2rem"
             lineHeight="1.1rem"
             maxWidth="1000px"
