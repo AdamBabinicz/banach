@@ -5,7 +5,7 @@ import { orange } from "../../../Colors";
 export const HeroSection = styled(Section)`
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
     url("/images/9.jpg") center/cover fixed;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   padding-top: 15rem;
 
