@@ -10,7 +10,7 @@ export const HeroSection = styled(Section)`
   padding-top: 15rem;
 
   @media screen and (max-width: 768px) {
-    padding-top: 120px;
+    padding-top: 220px;
   }
 `;
 
